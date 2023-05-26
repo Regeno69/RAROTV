@@ -205,7 +205,7 @@ http://s21tv.co:80/xdr117663808630/880021910693/280331
 http://s21tv.co:80/xdr117663808630/880021910693/280332
 #EXTINF:-1 tvg-id="" tvg-name="M+LCAMPEON12 (SOLO EVENTO)" tvg-logo="" group-title="CHAMPIONS",M+LCAMPEON12 (SOLO EVENTO)
 http://s21tv.co:80/xdr117663808630/880021910693/280333
-#EXTINF:-1 tvg-id="" tvg-name="Sevilla FC TV FHD" tvg-logo="" group-title="FUTBOL",Sevilla FC TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="Sevilla FC TV FHD" tvg-logo="" group-title="DEPORTES",Sevilla FC TV FHD
 http://s21tv.co:80/xdr117663808630/880021910693/280265
 #EXTINF:-1 tvg-id="" tvg-name="LIGA TV BAR HD" tvg-logo="" group-title="FUTBOL", LIGA TV BAR HD
 http://s21tv.co:80/xdr117663808630/880021910693/280260
@@ -233,7 +233,7 @@ http://s21tv.co:80/xdr117663808630/880021910693/280435
 http://s21tv.co:80/xdr117663808630/880021910693/280518
 #EXTINF:-1 tvg-id="" tvg-name="GOL FHD" tvg-logo="" group-title="DEPORTES", GOL FHD
 http://s21tv.co:80/xdr117663808630/880021910693/280582
-#EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO" tvg-logo="" group-title="TOROS",MUNDOTOTORO
+#EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="TOROS",MUNDOTOTORO
 http://xyz.latinotv.com.co:4564/5yRvm2tdss/QpJcXGDx8D/246126
 #EXTINF:-1 tvg-id="" tvg-name="EL TORO TV" tvg-logo="" group-title="TDT",EL TORO TV
 http://s21tv.co:80/xdr117663808630/880021910693/280421
