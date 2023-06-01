@@ -157,17 +157,17 @@ http://s21tv.co:80/xdr117663808630/880021910693/280307
 http://s21tv.co:80/xdr117663808630/880021910693/280308
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 10 HD (SOLO EVENTO)" tvg-logo="" group-title="FUTBOL",M+ LALIGA 10 HD (SOLO EVENTO)
 http://s21tv.co:80/xdr117663808630/880021910693/280309
-#EXTINF:-1 tvg-id="" tvg-name="M+LCAMPEONES " tvg-logo="" group-title="CHAMPIONS", M+LCAMPEONES 
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES " tvg-logo="" group-title="CHAMPIONS", M+ LCAMPEONES 
 http://s21tv.co:80/xdr117663808630/880021910693/280310
 #EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONS HD" tvg-logo="" group-title="CHAMPIONS", M+ LCAMPEONS HD
 http://s21tv.co:80/xdr117663808630/880021910693/280311
 #EXTINF:-1 tvg-id="" tvg-name="M+LCAMPEONES FHD" tvg-logo="" group-title="CHAMPIONS", M+LCAMPEONES FHD
 http://s21tv.co:80/xdr117663808630/880021910693/280312
-#EXTINF:-1 tvg-id="" tvg-name="M+LCAMPEON3 (SOLO EVENTO)" tvg-logo="" group-title="CHAMPIONS",M+LCAMPEON3 (SOLO EVENTO)
+#EXTINF:-1 tvg-id="" tvg-name="M+LCAMPEON3 (SOLO EVENTO)" tvg-logo="" group-title="CHAMPIONS",M+ LCAMPEON3 (SOLO EVENTO)
 http://s21tv.co:80/xdr117663808630/880021910693/280318
 #EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEON 3 HD (SOLO EVENTO)" tvg-logo="" group-title="CHAMPIONS",M+ LCAMPEON 3 HD (SOLO EVENTO)
 http://s21tv.co:80/xdr117663808630/880021910693/280319
-#EXTINF:-1 tvg-id="" tvg-name="M+LCAMPEON4 (SOLO EVENTO)" tvg-logo="" group-title="CHAMPIONS",M+LCAMPEON4 (SOLO EVENTO)
+#EXTINF:-1 tvg-id="" tvg-name="M+LCAMPEON4 (SOLO EVENTO)" tvg-logo="" group-title="CHAMPIONS",M+ LCAMPEON4 (SOLO EVENTO)
 http://s21tv.co:80/xdr117663808630/880021910693/280320
 #EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEON 4 HD (SOLO EVENTO)" tvg-logo="" group-title="CHAMPIONS",M+ LCAMPEON 4 HD (SOLO EVENTO)
 http://s21tv.co:80/xdr117663808630/880021910693/280321
@@ -205,8 +205,6 @@ http://s21tv.co:80/xdr117663808630/880021910693/280331
 http://s21tv.co:80/xdr117663808630/880021910693/280332
 #EXTINF:-1 tvg-id="" tvg-name="M+LCAMPEON12 (SOLO EVENTO)" tvg-logo="" group-title="CHAMPIONS",M+LCAMPEON12 (SOLO EVENTO)
 http://s21tv.co:80/xdr117663808630/880021910693/280333
-#EXTINF:-1 tvg-id="" tvg-name="Sevilla FC TV FHD" tvg-logo="" group-title="DEPORTES",Sevilla FC TV FHD
-http://s21tv.co:80/xdr117663808630/880021910693/280265
 #EXTINF:-1 tvg-id="" tvg-name="LIGA TV BAR HD" tvg-logo="" group-title="FUTBOL", LIGA TV BAR HD
 http://s21tv.co:80/xdr117663808630/880021910693/280260
 #EXTINF:-1 tvg-id="" tvg-name="TELEMADRID FHD" tvg-logo="" group-title="TDT", TELEMADRID FHD
@@ -331,7 +329,7 @@ http://s21tv.co:80/xdr117663808630/880021910693/280474
 http://s21tv.co:80/xdr117663808630/880021910693/280470
 #EXTINF:-1 tvg-id="tcm.es" tvg-name="TCM HD " tvg-logo="" group-title="CINE", TCM HD 
 http://s21tv.co:80/xdr117663808630/880021910693/280461
-#EXTINF:-1 tvg-id="" tvg-name="SYFY HD " tvg-logo="" group-title="CINE Y SERIES", SYFY HD 
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD " tvg-logo="" group-title="CINE", SYFY HD 
 http://s21tv.co:80/xdr117663808630/880021910693/280460
 #EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD HD" tvg-logo="" group-title="DOCUMENTAL", HOLLYWOOD HD
 http://s21tv.co:80/xdr117663808630/880021910693/280459
@@ -385,7 +383,7 @@ http://s21tv.co:80/xdr117663808630/880021910693/280403
 http://s21tv.co:80/xdr117663808630/880021910693/280402
 #EXTINF:-1 tvg-id="" tvg-name="M+ ACCION" tvg-logo="" group-title="CINE", M+ ACCION
 http://s21tv.co:80/xdr117663808630/880021910693/280401
-#EXTINF:-1 tvg-id="" tvg-name="COSMO " tvg-logo="" group-title="CINE Y SERIES",COSMO 
+#EXTINF:-1 tvg-id="" tvg-name="COSMO " tvg-logo="" group-title="CINE",COSMO 
 http://s21tv.co:80/xdr117663808630/880021910693/280389
 #EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL FHD" tvg-logo="" group-title="TDT", COMEDY CENTRAL FHD
 http://s21tv.co:80/xdr117663808630/880021910693/280388
@@ -425,7 +423,7 @@ http://s21tv.co:80/xdr117663808630/880021910693/280358
 http://s21tv.co:80/xdr117663808630/880021910693/280256
 #EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT " tvg-logo="" group-title="CINE",PARAMOUNT 
 http://s21tv.co:80/xdr117663808630/880021910693/280539
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEOGRAPH" tvg-logo="" group-title="DOCUMENTALES",NAT GEOGRAPH
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEOGRAPH" tvg-logo="" group-title="DOCUMENTAL",NAT GEOGRAPH
 http://s21tv.co:80/xdr117663808630/880021910693/280532
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="" group-title="DOCUMENTAL", NAT GEO WILD
 http://s21tv.co:80/xdr117663808630/880021910693/280531
