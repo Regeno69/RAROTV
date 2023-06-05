@@ -318,7 +318,7 @@ http://s21tv.co:80/xdr117663808630/880021910693/280498
 http://s21tv.co:80/xdr117663808630/880021910693/280494
 #EXTINF:-1 tvg-id="" tvg-name="TNT HD " tvg-logo="" group-title="CINE",TNT HD 
 http://s21tv.co:80/xdr117663808630/880021910693/280480
-#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE HD " tvg-logo="" group-title="CINE",SUNDANCE HD 
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE HD " tvg-logo="" group-title="CINE",SUNDANCE TV
 http://s21tv.co:80/xdr117663808630/880021910693/280477
 #EXTINF:-1 tvg-id="" tvg-name="BOM CINE HD" tvg-logo="" group-title="CINE", BOM CINE HD
 http://s21tv.co:80/xdr117663808630/880021910693/280476
@@ -330,7 +330,7 @@ http://s21tv.co:80/xdr117663808630/880021910693/280470
 http://s21tv.co:80/xdr117663808630/880021910693/280461
 #EXTINF:-1 tvg-id="" tvg-name="SYFY HD " tvg-logo="" group-title="CINE", SYFY HD 
 http://s21tv.co:80/xdr117663808630/880021910693/280460
-#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD HD" tvg-logo="" group-title="DOCUMENTAL", HOLLYWOOD HD
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD HD" tvg-logo="" group-title="CINE",HOLLYWOOD 
 http://s21tv.co:80/xdr117663808630/880021910693/280459
 #EXTINF:-1 tvg-id="" tvg-name="FOX HD " tvg-logo="" group-title="CINE", FOX HD 
 http://s21tv.co:80/xdr117663808630/880021910693/280458
@@ -430,17 +430,17 @@ http://s21tv.co:80/xdr117663808630/880021910693/280531
 http://s21tv.co:80/xdr117663808630/880021910693/280530
 #EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV " tvg-logo="" group-title="DOCUMENTAL",IBERALIA TV 
 http://s21tv.co:80/xdr117663808630/880021910693/280527
-#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD FHD" tvg-logo="" group-title="CINE", HOLLYWOOD FHD
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD FHD" tvg-logo="" group-title="CINE", HOLLYWOOD
 http://s21tv.co:80/xdr117663808630/880021910693/280526
-#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD" tvg-logo="" group-title="CINE", HOLLYWOOD
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD" tvg-logo="" group-title="CINE",HOLLYWOOD
 http://s21tv.co:80/xdr117663808630/880021910693/280525
 #EXTINF:-1 tvg-id="" tvg-name="HISTORIA " tvg-logo="" group-title="DOCUMENTAL",HISTORIA 
 http://s21tv.co:80/xdr117663808630/880021910693/280524
 #EXTINF:-1 tvg-id="" tvg-name="DMAX HD " tvg-logo="" group-title="DOCUMENTAL",DMAX HD 
 http://s21tv.co:80/xdr117663808630/880021910693/280493
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA HD " tvg-logo="" group-title="DOCUMENTAL", HISTORIA HD 
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA HD " tvg-logo="" group-title="DOCUMENTAL",HISTORIA HD 
 http://s21tv.co:80/xdr117663808630/880021910693/280489
-#EXTINF:-1 tvg-id="" tvg-name="CRIMEN INVESTIGACION HD " tvg-logo="" group-title="DOCUMENTAL",CRIMEN INVESTIGACION HD 
+#EXTINF:-1 tvg-id="" tvg-name="CRIMEN INVESTIGACION HD " tvg-logo="" group-title="DOCUMENTAL",CRIME INVESTIGATION
 http://s21tv.co:80/xdr117663808630/880021910693/280486
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HD " tvg-logo="" group-title="DOCUMENTAL", NAT GEO WILD HD 
 http://s21tv.co:80/xdr117663808630/880021910693/280484
@@ -478,7 +478,7 @@ http://s21tv.co:80/xdr117663808630/880021910693/280517
 http://s21tv.co:80/xdr117663808630/880021910693/280510
 #EXTINF:-1 tvg-id="" tvg-name="MEZZO LIVE HD " tvg-logo="" group-title="MUSICA",MEZZO LIVE HD 
 http://s21tv.co:80/xdr117663808630/880021910693/280509
-#EXTINF:-1 tvg-id="" tvg-name="M+ CLASICOS HD " tvg-logo="" group-title="CINE",M+ CLASICOS HD 
+#EXTINF:-1 tvg-id="" tvg-name="M+ CLASICOS HD " tvg-logo="" group-title="CINE",M+ CLÁSICOS HD 
 http://s21tv.co:80/xdr117663808630/880021910693/280508
 #EXTINF:-1 tvg-id="" tvg-name="TRECE HD " tvg-logo="" group-title="TDT",TRECE HD 
 http://s21tv.co:80/xdr117663808630/880021910693/280471
