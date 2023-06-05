@@ -369,7 +369,7 @@ http://s21tv.co:80/xdr117663808630/880021910693/280412
 http://s21tv.co:80/xdr117663808630/880021910693/280409
 #EXTINF:-1 tvg-id="" tvg-name="M+ DRAMA" tvg-logo="" group-title="CINE", M+ DRAMA
 http://s21tv.co:80/xdr117663808630/880021910693/280408
-#EXTINF:-1 tvg-id="" tvg-name="M+ CINE ESPAÑOL" tvg-logo="" group-title="CINE",M+ CINE ESPAÑOL
+#EXTINF:-1 tvg-id="" tvg-name="M+ CINE ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Movistar_Cine_Espa%C3%B1ol.svg" group-title="CINE",M+ CINE ESPAÑOL
 http://s21tv.co:80/xdr117663808630/880021910693/280407
 #EXTINF:-1 tvg-id="" tvg-name="M+ COMEDIA FHD " tvg-logo="" group-title="CINE", M+ COMEDIA FHD 
 http://s21tv.co:80/xdr117663808630/880021910693/280406
@@ -381,7 +381,7 @@ http://s21tv.co:80/xdr117663808630/880021910693/280404
 http://s21tv.co:80/xdr117663808630/880021910693/280403
 #EXTINF:-1 tvg-id="" tvg-name="M+ ACCION FHD" tvg-logo="" group-title="CINE", M+ ACCIÓN FHD
 http://s21tv.co:80/xdr117663808630/880021910693/280402
-#EXTINF:-1 tvg-id="" tvg-name="M+ ACCION" tvg-logo="" group-title="CINE", M+ ACCION
+#EXTINF:-1 tvg-id="" tvg-name="M+ ACCION" tvg-logo="" group-title="CINE", M+ ACCIÓN 
 http://s21tv.co:80/xdr117663808630/880021910693/280401
 #EXTINF:-1 tvg-id="" tvg-name="COSMO " tvg-logo="" group-title="CINE",COSMO 
 http://s21tv.co:80/xdr117663808630/880021910693/280389
@@ -419,7 +419,7 @@ http://s21tv.co:80/xdr117663808630/880021910693/280361
 http://s21tv.co:80/xdr117663808630/880021910693/280359
 #EXTINF:-1 tvg-id="" tvg-name="M+ ACCION HD" tvg-logo="" group-title="CINE", M+ ACCIÓN HD
 http://s21tv.co:80/xdr117663808630/880021910693/280358
-#EXTINF:-1 tvg-id="" tvg-name="M+ CINE ESPANOL FHD" tvg-logo="" group-title="CINE", M+ CINE ESPANOL FHD
+#EXTINF:-1 tvg-id="" tvg-name="M+ CINE ESPANOL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Movistar_Cine_Espa%C3%B1ol.svg" group-title="CINE", M+ CINE ESPANOL FHD
 http://s21tv.co:80/xdr117663808630/880021910693/280256
 #EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT " tvg-logo="" group-title="CINE",PARAMOUNT 
 http://s21tv.co:80/xdr117663808630/880021910693/280539
