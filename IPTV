@@ -223,7 +223,7 @@ http://s21tv.co:80/xdr117663808630/880021910693/280425
 http://s21tv.co:80/xdr117663808630/880021910693/280583
 #EXTINF:-1 tvg-id="" tvg-name="M+ #VAMOS" tvg-logo="" group-title="DEPORTES", M+ #VAMOS
 http://s21tv.co:80/xdr117663808630/880021910693/280433
-#EXTINF:-1 tvg-id="" tvg-name="# VAMOS HD " tvg-logo="" group-title="DEPORTES", # VAMOS HD 
+#EXTINF:-1 tvg-id="" tvg-name="# VAMOS HD " tvg-logo="" group-title="DEPORTES", M+ #VAMOS HD 
 http://s21tv.co:80/xdr117663808630/880021910693/280482
 #EXTINF:-1 tvg-id="" tvg-name="M+ #VAMOS FHD" tvg-logo="" group-title="DEPORTES", M+ #VAMOS FHD
 http://s21tv.co:80/xdr117663808630/880021910693/280435
@@ -255,9 +255,9 @@ http://s21tv.co:80/xdr117663808630/880021910693/280410
 http://s21tv.co:80/xdr117663808630/880021910693/280356
 #EXTINF:-1 tvg-id="" tvg-name="M+ GOLF FHD " tvg-logo="" group-title="DEPORTES", M+ GOLF FHD 
 http://s21tv.co:80/xdr117663808630/880021910693/280411
-#EXTINF:-1 tvg-id="" tvg-name="#VAMOS BAR2 " tvg-logo="" group-title="DEPORTES",#VAMOS BAR2 
+#EXTINF:-1 tvg-id="" tvg-name="#VAMOS BAR2 " tvg-logo="" group-title="DEPORTES",M+ #VAMOS BAR2 
 http://s21tv.co:80/xdr117663808630/880021910693/280368
-#EXTINF:-1 tvg-id="" tvg-name="#VAMOS BAR1 " tvg-logo="" group-title="DEPORTES",#VAMOS BAR1 
+#EXTINF:-1 tvg-id="" tvg-name="#VAMOS BAR1 " tvg-logo="" group-title="DEPORTES",M+ #VAMOS BAR1 
 http://s21tv.co:80/xdr117663808630/880021910693/280367
 #EXTINF:-1 tvg-id="" tvg-name="MULTIDEPORTE HD " tvg-logo="" group-title="DEPORTES",MULTIDEPORTE HD 
 http://s21tv.co:80/xdr117663808630/880021910693/280355
@@ -265,7 +265,7 @@ http://s21tv.co:80/xdr117663808630/880021910693/280355
 http://s21tv.co:80/xdr117663808630/880021910693/280339
 #EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES HD " tvg-logo="" group-title="DEPORTES",M+ DEPORTES HD 
 http://s21tv.co:80/xdr117663808630/880021910693/280340
-#EXTINF:-1 tvg-id="" tvg-name="M+DEPORTES FHD " tvg-logo="" group-title="DEPORTES",M+DEPORTES FHD 
+#EXTINF:-1 tvg-id="" tvg-name="M+DEPORTES FHD " tvg-logo="" group-title="DEPORTES",M+ DEPORTES FHD 
 http://s21tv.co:80/xdr117663808630/880021910693/280341
 #EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 1 HD (SOLO EVENTO)" tvg-logo="" group-title="DEPORTES",M+ DEPORTES 1 HD (SOLO EVENTO)
 http://s21tv.co:80/xdr117663808630/880021910693/280343
@@ -275,11 +275,11 @@ http://s21tv.co:80/xdr117663808630/880021910693/280344
 http://s21tv.co:80/xdr117663808630/880021910693/280345
 #EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 2 HD " tvg-logo="" group-title="DEPORTES",M+ DEPORTES 2 HD 
 http://s21tv.co:80/xdr117663808630/880021910693/280346
-#EXTINF:-1 tvg-id="" tvg-name="M+DEPORTES3 (SOLO EVENTO)" tvg-logo="" group-title="DEPORTES",M+DEPORTES3 (SOLO EVENTO)
+#EXTINF:-1 tvg-id="" tvg-name="M+DEPORTES3 (SOLO EVENTO)" tvg-logo="" group-title="DEPORTES",M+ DEPORTES3 (SOLO EVENTO)
 http://s21tv.co:80/xdr117663808630/880021910693/280347
 #EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 3 HD " tvg-logo="" group-title="DEPORTES",M+ DEPORTES 3 HD 
 http://s21tv.co:80/xdr117663808630/880021910693/280348
-#EXTINF:-1 tvg-id="" tvg-name="M+DEPORTES4 (SOLO EVENTO)" tvg-logo="" group-title="DEPORTES",M+DEPORTES4 (SOLO EVENTO)
+#EXTINF:-1 tvg-id="" tvg-name="M+DEPORTES4 (SOLO EVENTO)" tvg-logo="" group-title="DEPORTES",M+ DEPORTES4 (SOLO EVENTO)
 http://s21tv.co:80/xdr117663808630/880021910693/280349
 #EXTINF:-1 tvg-id="" tvg-name="M+DEPORTES5 (SOLO EVENTO)" tvg-logo="" group-title="DEPORTES",M+DEPORTES5 (SOLO EVENTO)
 http://s21tv.co:80/xdr117663808630/880021910693/280350
@@ -349,7 +349,7 @@ http://s21tv.co:80/xdr117663808630/880021910693/280453
 http://s21tv.co:80/xdr117663808630/880021910693/280432
 #EXTINF:-1 tvg-id="" tvg-name="M+ #0 " tvg-logo="" group-title="DEPORTES", M+ #0 
 http://s21tv.co:80/xdr117663808630/880021910693/280431
-#EXTINF:-1 tvg-id="" tvg-name="M+ESTRENOS FHD" tvg-logo="" group-title="CINE", M+ESTRENOS FHD
+#EXTINF:-1 tvg-id="" tvg-name="M+ESTRENOS FHD" tvg-logo="" group-title="CINE", M+ ESTRENOS FHD
 http://s21tv.co:80/xdr117663808630/880021910693/280430
 #EXTINF:-1 tvg-id="" tvg-name="M+ SERIES " tvg-logo="" group-title="SERIES", M+ SERIES 
 http://s21tv.co:80/xdr117663808630/880021910693/280420
@@ -363,7 +363,7 @@ http://s21tv.co:80/xdr117663808630/880021910693/280417
 http://s21tv.co:80/xdr117663808630/880021910693/280416
 #EXTINF:-1 tvg-id="" tvg-name="M+ SERIES FHD " tvg-logo="" group-title="SERIES", M+ SERIES FHD 
 http://s21tv.co:80/xdr117663808630/880021910693/280415
-#EXTINF:-1 tvg-id="" tvg-name="M+ La Resistencia " tvg-logo="" group-title="CINE",M+ La Resistencia 
+#EXTINF:-1 tvg-id="" tvg-name="M+ La Resistencia " tvg-logo="" group-title="CINE",La Resistencia 
 http://s21tv.co:80/xdr117663808630/880021910693/280412
 #EXTINF:-1 tvg-id="" tvg-name="M+ ESTRENOS 2 FHD" tvg-logo="" group-title="CINE", M+ ESTRENOS 2 FHD
 http://s21tv.co:80/xdr117663808630/880021910693/280409
@@ -375,11 +375,11 @@ http://s21tv.co:80/xdr117663808630/880021910693/280407
 http://s21tv.co:80/xdr117663808630/880021910693/280406
 #EXTINF:-1 tvg-id="" tvg-name="M+ COMEDIA " tvg-logo="" group-title="CINE", M+ COMEDIA 
 http://s21tv.co:80/xdr117663808630/880021910693/280405
-#EXTINF:-1 tvg-id="" tvg-name="M+ CLASICOS FHD " tvg-logo="" group-title="CINE",M+ CLASICOS FHD 
+#EXTINF:-1 tvg-id="" tvg-name="M+ CLASICOS FHD " tvg-logo="" group-title="CINE",M+ CLÁSICOS FHD 
 http://s21tv.co:80/xdr117663808630/880021910693/280404
-#EXTINF:-1 tvg-id="" tvg-name="M+ CLASICOS " tvg-logo="" group-title="CINE",M+ CLASICOS 
+#EXTINF:-1 tvg-id="" tvg-name="M+ CLASICOS " tvg-logo="" group-title="CINE",M+ CLÁSICOS 
 http://s21tv.co:80/xdr117663808630/880021910693/280403
-#EXTINF:-1 tvg-id="" tvg-name="M+ ACCION FHD" tvg-logo="" group-title="CINE", M+ ACCION FHD
+#EXTINF:-1 tvg-id="" tvg-name="M+ ACCION FHD" tvg-logo="" group-title="CINE", M+ ACCIÓN FHD
 http://s21tv.co:80/xdr117663808630/880021910693/280402
 #EXTINF:-1 tvg-id="" tvg-name="M+ ACCION" tvg-logo="" group-title="CINE", M+ ACCION
 http://s21tv.co:80/xdr117663808630/880021910693/280401
@@ -417,7 +417,7 @@ http://s21tv.co:80/xdr117663808630/880021910693/280362
 http://s21tv.co:80/xdr117663808630/880021910693/280361
 #EXTINF:-1 tvg-id="" tvg-name="M+ ESTRENOS 2 HD" tvg-logo="" group-title="CINE", M+ ESTRENOS 2 HD
 http://s21tv.co:80/xdr117663808630/880021910693/280359
-#EXTINF:-1 tvg-id="" tvg-name="M+ ACCION HD" tvg-logo="" group-title="CINE", M+ ACCION HD
+#EXTINF:-1 tvg-id="" tvg-name="M+ ACCION HD" tvg-logo="" group-title="CINE", M+ ACCIÓN HD
 http://s21tv.co:80/xdr117663808630/880021910693/280358
 #EXTINF:-1 tvg-id="" tvg-name="M+ CINE ESPANOL FHD" tvg-logo="" group-title="CINE", M+ CINE ESPANOL FHD
 http://s21tv.co:80/xdr117663808630/880021910693/280256
