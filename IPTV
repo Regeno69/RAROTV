@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TVG" tvg-logo="" group-title="TDT",TVG
-http://s21tv.co:80/xdr117663808630/880021910693/371296
+
 #EXTINF:-1 tvg-id="" tvg-name="LA 2" tvg-logo="" group-title="TDT", LA 2
 http://s21tv.co:80/xdr117663808630/880021910693/371295
 #EXTINF:-1 tvg-id="" tvg-name="LA 1" tvg-logo="" group-title="TDT", LA 1
@@ -423,11 +422,11 @@ http://s21tv.co:80/xdr117663808630/880021910693/280358
 http://s21tv.co:80/xdr117663808630/880021910693/280256
 #EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT " tvg-logo="" group-title="CINE",PARAMOUNT 
 http://s21tv.co:80/xdr117663808630/880021910693/280539
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEOGRAPH" tvg-logo="" group-title="DOCUMENTAL",NAT GEOGRAPH
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEOGRAPH" tvg-logo="" group-title="DOCUMENTAL",NATIONAL GEOGRAPHIC
 http://s21tv.co:80/xdr117663808630/880021910693/280532
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="" group-title="DOCUMENTAL", NAT GEO WILD
 http://s21tv.co:80/xdr117663808630/880021910693/280531
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO FHD " tvg-logo="" group-title="DOCUMENTAL",NAT GEO FHD 
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO FHD " tvg-logo="" group-title="DOCUMENTAL",NAT GEO WILD
 http://s21tv.co:80/xdr117663808630/880021910693/280530
 #EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV " tvg-logo="" group-title="DOCUMENTAL",IBERALIA TV 
 http://s21tv.co:80/xdr117663808630/880021910693/280527
@@ -445,7 +444,7 @@ http://s21tv.co:80/xdr117663808630/880021910693/280489
 http://s21tv.co:80/xdr117663808630/880021910693/280486
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HD " tvg-logo="" group-title="DOCUMENTAL", NAT GEO WILD HD 
 http://s21tv.co:80/xdr117663808630/880021910693/280484
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEOGRAPHIC HD " tvg-logo="" group-title="DOCUMENTAL",NAT GEOGRAPHIC HD 
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEOGRAPHIC HD " tvg-logo="" group-title="DOCUMENTAL",NATIONAL GEOGRAPHIC HD
 http://s21tv.co:80/xdr117663808630/880021910693/280483
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY " tvg-logo="" group-title="DOCUMENTAL",DISCOVERY 
 http://s21tv.co:80/xdr117663808630/880021910693/280392
