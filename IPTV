@@ -426,7 +426,7 @@ http://s21tv.co:80/xdr117663808630/880021910693/280539
 http://s21tv.co:80/xdr117663808630/880021910693/280532
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="" group-title="DOCUMENTAL", NAT GEO WILD
 http://s21tv.co:80/xdr117663808630/880021910693/280531
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO FHD " tvg-logo="" group-title="DOCUMENTAL",NAT GEO WILD
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO FHD " tvg-logo="" group-title="DOCUMENTAL", NATIONAL GEOGRAPHIC 
 http://s21tv.co:80/xdr117663808630/880021910693/280530
 #EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV " tvg-logo="" group-title="DOCUMENTAL",IBERALIA TV 
 http://s21tv.co:80/xdr117663808630/880021910693/280527
@@ -462,7 +462,7 @@ http://s21tv.co:80/xdr117663808630/880021910693/280575
 http://s21tv.co:80/xdr117663808630/880021910693/280574
 #EXTINF:-1 tvg-id="" tvg-name="Canal TRO Colombia" tvg-logo="" group-title="TDT",Canal TRO Colombia
 http://s21tv.co:80/xdr117663808630/880021910693/280573
-#EXTINF:-1 tvg-id="" tvg-name="Canal Capital Colombia" tvg-logo="" group-title="TDT",Canal Capital Colombia
+#EXTINF:-1 tvg-id="" tvg-name="ENFAMILIA" tvg-logo="" group-title="CINE",ENFAMILIA
 http://s21tv.co:80/xdr117663808630/880021910693/280571
 #EXTINF:-1 tvg-id="" tvg-name="Telemadrid HD" tvg-logo="" group-title="TDT", Telemadrid HD
 http://s21tv.co:80/xdr117663808630/880021910693/280563
@@ -484,9 +484,6 @@ http://s21tv.co:80/xdr117663808630/880021910693/280508
 http://s21tv.co:80/xdr117663808630/880021910693/280471
 #EXTINF:-1 tvg-id="" tvg-name="FOX NEWS HD " tvg-logo="" group-title="TDT",FOX NEWS HD 
 http://s21tv.co:80/xdr117663808630/880021910693/280468
-#EXTINF:-1 tvg-id="" tvg-name="M+ CLASICOS" tvg-logo="" group-title="CINE",M+ CLASICOS 
+#EXTINF:-1 tvg-id="" tvg-name="M+ CLASICOS" tvg-logo="" group-title="CINE",M+ CLÁSICOS 
 http://s21tv.co:80/xdr117663808630/880021910693/280386
-#EXTINF:-1 tvg-id="" tvg-name="Canal 2000 HD" tvg-logo="" group-title="TDT",Canal 2000 HD
-http://s21tv.co:80/xdr117663808630/880021910693/280262
-#EXTINF:-1 tvg-id="" tvg-name="LA 7 HD" tvg-logo="" group-title="TDT", LA 7 HD
-http://s21tv.co:80/xdr117663808630/880021910693/280258
+
